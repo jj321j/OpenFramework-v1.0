@@ -30,7 +30,7 @@ Artificial Intelligence Policy; Cognitive Sovereignty
 
 ## 📘 Related Links
 - https://github.com/Omega-Theater/OpenFramework-v1.0  
-- https://zenodo.org/communities/open-ai-ethics
+- [https://zenodo.org/communities/open-ai-ethics](https://zenodo.org/records/17512671)
 
 ---
 
